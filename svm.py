@@ -81,4 +81,3 @@ plt.ylim(x2_min, x2_max)
 plt.title(u'鸢尾花SVM二特征分类', fontsize=15)
 # plt.grid()
 plt.show()
-Machine-Learing
